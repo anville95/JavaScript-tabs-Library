@@ -1,5 +1,6 @@
-
 DOCUMENTATION
+-------------
+
 1. Types of Tabs in this library.
 There are three types of tabs:
 Swipable tabs: one can swipe between these tabs and the tabs have corresponding tab buttons.
